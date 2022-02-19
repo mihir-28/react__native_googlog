@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26768215587",
+    "project_id": "googlog-c5e65",
+    "storage_bucket": "googlog-c5e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26768215587:android:f1a7725976890b63352b96",
+        "android_client_info": {
+          "package_name": "com.googlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26768215587-etlcmp7oor7lqekv7ru914s3afa381kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOc0Fed0YOy7xf37kJEivyfnE41pyyQd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26768215587-etlcmp7oor7lqekv7ru914s3afa381kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
